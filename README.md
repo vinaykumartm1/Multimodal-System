@@ -75,9 +75,9 @@ This project provides a solid foundation, and there are many avenues for future 
 
 - **Model Enhancements:** Explore more advanced transformer architectures like RoBERTa or Longformer for improved performance on long documents. Implement advanced hyperparameter tuning for a more optimized model.
 
--**Expanded File Support:** Extend the system to process a wider range of document formats, including PDFs, CSVs, and other common business document types.
+- **Expanded File Support:** Extend the system to process a wider range of document formats, including PDFs, CSVs, and other common business document types.
 
--**Enhanced Evaluation:** Introduce a more comprehensive evaluation suite, including metrics like F1-score and a detailed confusion matrix, to better understand model performance.
+- **Enhanced Evaluation:** Introduce a more comprehensive evaluation suite, including metrics like F1-score and a detailed confusion matrix, to better understand model performance.
 
 - **Multilingual Support:** Adapt the system to handle documents in multiple languages by fine-tuning multilingual transformer models.
 
